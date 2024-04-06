@@ -2,5 +2,5 @@
 ![DS_5983_LLM 5 1-2](https://github.com/DhruvMiyani/Transformers-architecture/assets/54111873/fcd7ab5d-4f2b-4ae6-b793-3ccf27bcf969)
 ![DS_5983_LLM 5 1-3](https://github.com/DhruvMiyani/Transformers-architecture/assets/54111873/6779c5af-30c2-48a9-a992-e4a6a4d55227)
 ![DS_5983_LLM 5 1-4](https://github.com/DhruvMiyani/Transformers-architecture/assets/54111873/f478224c-1a2b-4e4f-9616-74ea86d277e7)
-![DS_5983_LLM 5 1-5](http![DS_5983_LLM 5 1-6](https://github.com/DhruvMiyani/Transformers-architecture/assets/54111873/a4b05b8f-ae4d-44b8-a681-c1ecaf92e215)
-s://github.com/DhruvMiyani/Transformers-architecture/assets/54111873/e6a02d10-e6da-413e-b066-5fb21e8c1855)
+![DS_5983_LLM 5 1-5](https://github.com/DhruvMiyani/Transformers-architecture/assets/54111873/61d07960-6ba9-4f55-ab44-19c31b1205f1)
+![DS_5983_LLM 5 1-6](https://github.com/DhruvMiyani/Transformers-architecture/assets/54111873/67d86af3-82de-41ac-be75-e0be8633ad91)
